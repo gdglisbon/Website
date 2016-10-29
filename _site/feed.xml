@@ -4,10 +4,10 @@
     <title>GDG Lisboa</title>
     <description>Google Developer Group Lisboa.
 </description>
-    <link>http://gdglisbon.github.io/</link>
-    <atom:link href="http://gdglisbon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Oct 2016 23:54:31 +0100</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2016 23:54:31 +0100</lastBuildDate>
+    <link>http://gdglisbon.github.io//</link>
+    <atom:link href="http://gdglisbon.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 29 Oct 2016 16:47:34 +0100</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 16:47:34 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>
 </description>
         <pubDate>Wed, 03 Feb 2016 02:06:00 +0000</pubDate>
-        <link>http://gdglisbon.github.io/gdg-femug/</link>
-        <guid isPermaLink="true">http://gdglisbon.github.io/gdg-femug/</guid>
+        <link>http://gdglisbon.github.io//gdg-femug/</link>
+        <guid isPermaLink="true">http://gdglisbon.github.io//gdg-femug/</guid>
         
         <category>GDGSSA</category>
         
@@ -34,8 +34,8 @@
         <description>
 </description>
         <pubDate>Wed, 03 Feb 2016 02:00:00 +0000</pubDate>
-        <link>http://gdglisbon.github.io/android-study-jams-teste/</link>
-        <guid isPermaLink="true">http://gdglisbon.github.io/android-study-jams-teste/</guid>
+        <link>http://gdglisbon.github.io//android-study-jams-teste/</link>
+        <guid isPermaLink="true">http://gdglisbon.github.io//android-study-jams-teste/</guid>
         
         <category>GDGSSA</category>
         
@@ -53,8 +53,8 @@
         <description>
 </description>
         <pubDate>Wed, 03 Feb 2016 02:00:00 +0000</pubDate>
-        <link>http://gdglisbon.github.io/gdg-tech-tour/</link>
-        <guid isPermaLink="true">http://gdglisbon.github.io/gdg-tech-tour/</guid>
+        <link>http://gdglisbon.github.io//gdg-tech-tour/</link>
+        <guid isPermaLink="true">http://gdglisbon.github.io//gdg-tech-tour/</guid>
         
         <category>GDGSSA</category>
         

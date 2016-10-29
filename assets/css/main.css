@@ -62,6 +62,11 @@ body {
   min-height: 60vh;
   background: #8E44AD;
   padding: 1rem; }
+  
+.section-event-next {
+  min-height: 30vh;
+  background: #34495E;
+  padding: 1rem; }
 
 .section-university {
   min-height: 75vh;
