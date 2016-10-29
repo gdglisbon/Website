@@ -5,7 +5,7 @@ email: lisbon.gdg@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Google Developer Group Lisboa.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gdg-lisbon.github.io/website/" # the base hostname & protocol for your site
+url: "http://gdglisbon.github.io/" # the base hostname & protocol for your site
 url_dev: "http://localhost:4000"
 twitter_username: GDGLisbon
 github_username:  GDG-Lisbon

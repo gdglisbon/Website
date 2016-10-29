@@ -1,5 +1,5 @@
 {
-  "name": "gdg-lisbon.github.io",
+  "name": "gdglisbon.github.io",
   "version": "1.0.0",
   "description": "GDGLx website",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+http://gdg-lisbon.github.io/website/"
+    "url": "git+http://gdglisbon.github.io/"
   },
   "author": "GDG Lisbon",
   "license": "ISC",
   "bugs": {
-    "url": "http://gdg-lisbon.github.io/website/issues"
+    "url": "http://gdglisbon.github.io/issues"
   },
-  "homepage": "http://gdg-lisbon.github.io/website/#readme",
+  "homepage": "http://gdglisbon.github.io/#readme",
   "dependencies": {
     "gulp": "^3.9.0",
     "path": "^0.12.7"
