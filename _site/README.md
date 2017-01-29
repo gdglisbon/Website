@@ -16,7 +16,7 @@ Website oficial do Google Developers Group Lisboa,PT - Portugal
 
 3 - Clone o projeto e navegue até seu diretório:
 ```sh
-  $ git clone https://github.com/GDG-Salvador/gdg-salvador.github.io.git && cd gdg-salvador.github.io
+  $ git clone https://github.com/gdglisbon/gdglisbon.github.io && cd gdglisbon.github.io
 ```  
 
 4 - Instale os pacotes NPM:
