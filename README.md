@@ -1,7 +1,7 @@
 # GDG Lisboa
 
 Website oficial do Google Developers Group Lisboa,PT - Portugal
-##### [http://gdglisbon.github.io](http://gdglisbon.github.io)
+##### [https://www.gdglisbon.xyz/](https://www.gdglisbon.xyz/)
 ---
 
 ### Como Contribuir
@@ -16,7 +16,7 @@ Website oficial do Google Developers Group Lisboa,PT - Portugal
 
 3 - Clone o projeto e navegue até seu diretório:
 ```sh
-  $ git clone https://github.com/gdglisbon/gdglisbon.github.io && cd gdglisbon.github.io
+  $ git clone https://github.com/gdglisbon/Website.git && cd Website
 ```  
 
 4 - Instale os pacotes NPM:
