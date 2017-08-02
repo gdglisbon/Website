@@ -20,3 +20,14 @@
       }; 
     };
 })(window, document);
+
+$(document).ready(function () {
+  $(".button-collapse").sideNav({
+    closeOnClick: true,
+  });
+
+  $('side-nav li a').click(function () {
+    $('.button-collapse').sideNav('hide');
+  });
+});
+
