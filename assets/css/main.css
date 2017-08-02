@@ -27,7 +27,11 @@
   top: 0;
   line-height: 0;
   height: auto;
-  color: rgba(255, 255, 255, 0.9); }
+  color: rgba(255, 255, 255, 0.9);
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
 
 .color-overlay {
   position: absolute;
@@ -45,14 +49,20 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  height: 100vh;
+  height: 80vh;
+  margin-top: 10vh;
+  margin-bottom: 10vh;
   resize: vertical;
-  overflow: auto; }
+  overflow: auto;
+  min-width: 80%;
+  max-width: 100%;
+  width: 80%; }
   .flex-center h2, .flex-center h3 {
     margin: 0;
     padding: 20px; }
   .flex-center img {
-    z-index: 10; }
+    z-index: 100;
+    width: 100%; }
 
 body {
   background-color: #3f51b5;
