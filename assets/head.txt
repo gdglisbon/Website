@@ -1,0 +1,27 @@
+<!-- HTML Meta Tags -->
+<title>GDG Lisboa</title>
+<meta name="description" content="Google Developer Group Lisboa.
+For developers and enthusiasts who are interested in Google Developer technology.">
+
+<!-- Google / Search Engine Tags -->
+<meta itemprop="name" content="GDG Lisboa">
+<meta itemprop="description" content="Google Developer Group Lisboa.
+For developers and enthusiasts who are interested in Google Developer technology.">
+<meta itemprop="image" content="https://i.imgur.com/5gGssAV.png">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://www.gdglisbon.xyz">
+<meta property="og:type" content="website">
+<meta property="og:title" content="GDG Lisboa">
+<meta property="og:description" content="Google Developer Group Lisboa.
+For developers and enthusiasts who are interested in Google Developer technology.">
+<meta property="og:image" content="https://i.imgur.com/5gGssAV.png">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GDG Lisboa">
+<meta name="twitter:description" content="Google Developer Group Lisboa.
+For developers and enthusiasts who are interested in Google Developer technology.">
+<meta name="twitter:image" content="https://i.imgur.com/5gGssAV.png">
+
+<!-- Meta Tags Generated via http://heymeta.com -->
